@@ -4,7 +4,7 @@ Advanced reduce arrays
 
 ## Tools
 - HTML
-- CSS
-- Jasmione Testing
+- JavaScript
+- Jasmine Testing Tool
 
 _Thanks!_
